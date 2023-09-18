@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminal&size=40&pause=1000&color=6FD300&center=true&vCenter=true&repeat=false&width=1000&height=100&lines=%24+python+-c+%22print('Hello%2C+%F0%9F%8C%8D!')%22)](https://git.io/typing-svg)
+w[![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminal&size=40&pause=1000&color=6FD300&center=true&vCenter=true&repeat=false&width=1000&height=100&lines=%24+python+-c+%22print('Hello%2C+%F0%9F%8C%8D!')%22)](https://git.io/typing-svg)
 
 # Hello, there! 👋🏻
 I'm happy that you've stumbled upon my GitHub profile! Let me help you explore my profile.
@@ -12,7 +12,7 @@ I'm happy that you've stumbled upon my GitHub profile! Let me help you explore m
 ## Recruiter looking for my resume? 📄
 Had to put this first, because, well, you know how it is... HR folks are the real OPs ❤️ _(Sorry guys tryna make a living here 😄)_
 
-### 👉🏻 [My Resume](https://rebrand.ly/mathew-hany-cv) 👈🏻 
+### 👉🏻 [My Resume](https://mathew-bastawy-resume.onrender.com/resume) 👈🏻 
 
 ## Wanna reach me? 💬
 - Wanna have a chat? Ask me anything? Don't hesitate to DM me on WhatsApp 👉🏻 `+20 128 789 5377`
