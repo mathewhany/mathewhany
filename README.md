@@ -12,7 +12,7 @@ I'm happy that you've stumbled upon my GitHub profile! Let me help you explore m
 ## Recruiter looking for my resume? 📄
 Had to put this first, because, well, you know how it is... HR folks are the real OPs ❤️ _(Sorry guys tryna make a living here 😄)_
 
-### 👉🏻 [My Resume](https://mathew-bastawy-resume.onrender.com/resume?source=github) 👈🏻 
+### 👉🏻 [My Resume](http://tiny.cc/mathew-bastawy-cv) 👈🏻 
 
 ## Wanna reach me? 💬
 - Wanna have a chat? Ask me anything? Don't hesitate to DM me on WhatsApp 👉🏻 `+20 128 789 5377`
