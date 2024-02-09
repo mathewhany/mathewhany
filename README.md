@@ -7,7 +7,7 @@ I'm happy that you've stumbled upon my GitHub profile! Let me help you explore m
 - [Wanna reach me? 💬](#wanna-reach-me-)
 - [Who am I, anyway? 🙋](#who-am-i-anyway-)
 - [Wanna see what I'm working on now? 🚀](#wanna-see-what-im-working-on-now-)
-- [Personal Projects I actually use 👨🏻‍💻](#personal-projects-i-actually-use-)
+- [My Latest Scripts 👨🏻‍💻](#latest-scripts-)
 - [Problem solving solutions 🧠](#problem-solving-solutions-)
 - [Looking for GUC Projects? 👨🏻‍🎓](#looking-for-guc-projects-)
 - [My Teenage Projects 🍼](#my-teenage-projects-)
