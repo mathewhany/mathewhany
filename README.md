@@ -27,21 +27,21 @@ Had to put this first, because, well, you know how it is... HR folks are the rea
 ## Who am I, anyway? 🙋
 - 🤓 I'm Mathew Hany, duh
 - 🎓 7th-semester CSE Student @ GUC 
-- 🐞 Backend Intern @ [Instabug](https://github.com/Instabug) (Aug - Sep 2023) 
+- 🐞 Backend Part-timer @ [Instabug](https://github.com/Instabug) (Aug - Sep 2023) 
 - 👔 Ex Full Stack Intern @ Jubia Smart Solutions. (July - Sep 2022) 
 - 👨🏻‍💻 Hobbyist programmer since 2012.
 - 🎸 Plays the piano & the guitar (let's jam!!)
 
 ## Wanna see what I'm working on now? 🚀
-Since Aug, 2023, I've been working as a backend intern at [Instabug](https://github.com/Instabug) in the Crash Reporting squad. We have been working on a new feature called Session Replay, that helps app developers at 25,000+ companies around the world, by giving them insights into their users' sessions that led to a crashes. It will be released soon, stay tuned !! 🔥
+Since Oct, 2023, I've been working as a backend developer at [Instabug](https://github.com/Instabug) in the Crash Reporting squad. We provide mobile app developers at 25,000+ companies around the world, by giving them insights into their app's performance, and allowing them to easily track crashes and bugs.
 
-## Personal projects I actually use 👨🏻‍💻
+## Latest Scripts 👨🏻‍💻
 - [GUC CMS Todoist](https://github.com/mathewhany/guc-cms-todoist) : A Python program that scans GUC CMS and adds newly uploaded course material & course announcements as Todoist tasks.  🗒️ 
 - [Toggl Cron](https://github.com/mathewhany/toggl-cron) : A Go AWS Lambda handler that is runs every 15 min to add a time entry on Toggl and break down previous time entries to multiple entries if necessary.
 
 ## Problem Solving Solutions 🧠
 > During 2023, I challenged myself to solve at least 1 LeetCode problem daily, and after a streak of 123 days, I managed to solve all 75 Blind problems, 150 NeetCode problems, and 400 NeetCode All Problems!! 🔥🚀 
-- [LeetCode](https://leetcode.com/mathewhany/) : 427 problems solved in total (51 hard, 271 medium, 105 easy) 👉🏻 [Solutions](https://github.com/mathewhany/leetcode-solutions) 
+- [LeetCode](https://leetcode.com/mathewhany/) : 447 problems solved in total (56 hard, 284 medium, 107 easy) 👉🏻 [Solutions](https://github.com/mathewhany/leetcode-solutions) 
 - [CodeForces](https://codeforces.com/profile/mathewhany) : 132 problems solved, 10 contests, __Rating 1298__
 - [ICPC](https://icpc.global/ICPCID/NTLLQZGQG7I2) : 8th place on GUC teams in ECPC 2023 qualification round
 
@@ -77,7 +77,15 @@ If you are just interested in my projects, here you are 👇:
 | Computer Architecture | [mathewhany/harvard-computer-architecture-java-simulator](https://github.com/mathewhany/harvard-computer-architecture-java-simulator) |
 | Software Engineering | [software-engineering-2023/Batates-M7mra](https://github.com/software-engineering-2023/Batates-M7mra) | 
 
-
+### Semester 7
+| Course | Link |
+| -- | -- | 
+| Microprocessors | https://github.com/mathewhany/microprocessors-typescript |
+| Graphics Project | https://github.com/mathewhany/graphics-game | 
+| Graphics Assignment 1 | https://github.com/mathewhany/graphics-assignment-1 |
+| Graphics Assignment 2 | https://github.com/mathewhany/graphics-assignment-2 |
+| ACL Clinic | https://github.com/advanced-computer-lab-2023/Copilot-and-Sons-Clinic | 
+| ACL Pharmacy | https://github.com/advanced-computer-lab-2023/Copilot-and-Sons-Pharmacy |
 ## My Teenage Projects 🍼
 > I have been programming as a hobby since primary school, that means I've been programming for more than 10 years now. 
 > I have created many hobby projects when I was a kid and later in my teenage years, most of them are lost unfortunately because I didn't know of Git back then, I managed to recover some of them here, RIP to the lost projects
