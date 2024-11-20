@@ -26,8 +26,8 @@ Had to put this first, because, well, you know how it is... HR folks are the rea
 
 ## Who am I, anyway? 🙋
 - 🤓 I'm Mathew Hany, duh
-- 🎓 7th-semester CSE Student @ GUC 
-- 🐞 Backend Part-timer @ [Instabug](https://github.com/Instabug) (Aug - Sep 2023) 
+- 🎓 Senior CSE Student @ GUC 
+- 🐞 Backend Engineer @ [Instabug](https://github.com/Instabug) (Since Aug, 2023) 
 - 👔 Ex Full Stack Intern @ Jubia Smart Solutions. (July - Sep 2022) 
 - 👨🏻‍💻 Hobbyist programmer since 2012.
 - 🎸 Plays the piano & the guitar (let's jam!!)
