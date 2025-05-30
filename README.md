@@ -86,6 +86,21 @@ If you are just interested in my projects, here you are 👇:
 | Graphics Assignment 2 | https://github.com/mathewhany/graphics-assignment-2 |
 | ACL Clinic | https://github.com/advanced-computer-lab-2023/Copilot-and-Sons-Clinic | 
 | ACL Pharmacy | https://github.com/advanced-computer-lab-2023/Copilot-and-Sons-Pharmacy |
+
+### Semester 10
+| Course / Task | Link |
+| -- | -- |
+| ACL Final Project | https://github.com/SaraAlajmy/FinalProject-4-Coppilot-Sons-EndGame | 
+| ACL Task 1 | https://github.com/mathewhany/guc-semester-10-acl-task-1 |
+| ACL Task 2 | https://github.com/mathewhany/guc-semester-10-acl-task-2 |
+| ACL Task 3 | https://github.com/mathewhany/guc-semester-10-acl-task-3 |
+| ACL Task 4 | https://github.com/mathewhany/guc-semester-10-acl-task-4 |
+| ACL Task 5 | https://github.com/mathewhany/guc-semester-10-acl-task-5 |
+| ACL Task 6 | https://github.com/mathewhany/guc-semester-10-acl-task-6 |
+| Compilers Assignment 1 | https://github.com/mathewhany/guc-52-compilers-assignment-1 |
+| Compilers Assignment 2 | https://github.com/mathewhany/guc-52-compilers-assignment-2 |
+
+
 ## My Teenage Projects 🍼
 > I have been programming as a hobby since primary school, that means I've been programming for more than 10 years now. 
 > I have created many hobby projects when I was a kid and later in my teenage years, most of them are lost unfortunately because I didn't know of Git back then, I managed to recover some of them here, RIP to the lost projects
